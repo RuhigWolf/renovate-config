@@ -7,7 +7,6 @@
         ":disableRateLimiting",
         ":timezone(America/New_York)",
         "docker:enableMajor",
-        "helpers:pinGitHubActionDigests",
         "github>RuhigWolf/renovate-config:automerge-github-actions.json5",
         "github>RuhigWolf/renovate-config:generic-regex-manager.json5",
         "github>RuhigWolf/renovate-config:labels.json5",
